@@ -1,0 +1,14 @@
+@startuml CustomerProvider
+
+class JavaStore {
+    + main(String[] args)
+    + explorarProdutos()
+    + desejaAjuda()
+    + desejaComprar()
+    + precoAgradou()
+    + desejaOutroProduto()
+    + levarCarrinhoAoCaixa()
+    + temDinheiro()
+}
+
+@enduml
